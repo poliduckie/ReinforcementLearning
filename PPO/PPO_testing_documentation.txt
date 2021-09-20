@@ -1,0 +1,22 @@
+videos=> Contains the videos of the tests of the model
+code=> Contains the code used to train the models in the .ipynb format
+
+Algorithm used: Proximal Policy Optimization
+A nice 2 part article explanating it:
+https://towardsdatascience.com/proximal-policy-optimization-tutorial-part-1-actor-critic-method-d53f9afffbf6
+
+Testing:
+- original reward parameters
+- original training parameters("MlpPolicy", gamma=0.99, learning_rate=0.3)
+- no. timesteps the model has been trained on is in the name of the video
+
+Results:
+It seems to learn to drive better the longer it trains(it improves).
+The model gets more robust to it's starting position with longer training.
+Also, because of the nature of the small_loop map, the model learns to turn only left.
+
+Further testing:
+- play with parameters
+- make speed part of the reward
+- PID control(?)
+- make the model more robust to different maps by changing them periodically
