@@ -6,9 +6,13 @@ A nice 2 part article explanating it:
 https://towardsdatascience.com/proximal-policy-optimization-tutorial-part-1-actor-critic-method-d53f9afffbf6
 
 Testing:
+19.9.2021.
 - original reward parameters
 - original training parameters("MlpPolicy", gamma=0.99, learning_rate=0.3)
 - no. timesteps the model has been trained on is in the name of the video
+20.9.2021.
+- train 10k on small_loop, then 10k on zig_zag
+- removed the constraint on initial car rotation (so it doesn't affect training)
 
 Results:
 It seems to learn to drive better the longer it trains(it improves).
@@ -19,4 +23,4 @@ Further testing:
 - play with parameters
 - make speed part of the reward
 - PID control(?)
-- make the model more robust to different maps by changing them periodically
+
