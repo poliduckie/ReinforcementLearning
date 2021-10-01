@@ -1,5 +1,7 @@
 Further testing:
 - play with parameters
+	-gamma
+	-use_sde (with the frequency)
 - make speed part of the reward(reward higher speed)
 - add noise to the action(to improve exploration)
 - train same agent on different maps(e.g. change map every 5k timesteps)
