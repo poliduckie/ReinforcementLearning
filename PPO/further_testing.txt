@@ -1,0 +1,6 @@
+Further testing:
+- play with parameters
+- make speed part of the reward
+- add noise to the action(to improve exploration)
+- train same agent on different maps(e.g. change map every 5k timesteps)
+- PID control(?)

@@ -19,8 +19,3 @@ It seems to learn to drive better the longer it trains(it improves).
 The model gets more robust to it's starting position with longer training.
 Also, because of the nature of the small_loop map, the model learns to turn only left.
 
-Further testing:
-- play with parameters
-- make speed part of the reward
-- PID control(?)
-
