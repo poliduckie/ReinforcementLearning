@@ -13,9 +13,14 @@ Testing:
 20.9.2021.
 - train 10k on small_loop, then 10k on zig_zag
 - removed the constraint on initial car rotation (so it doesn't affect training)
+1.10.2021.
+- train 5k with action noise(std 0.1*MAX_ACTION)
+- trained on the zig zag map
 
 Results:
 It seems to learn to drive better the longer it trains(it improves).
 The model gets more robust to it's starting position with longer training.
 Also, because of the nature of the small_loop map, the model learns to turn only left.
 
+The noise in the action seems too big because the agent doesn't learn,
+it goes straight and when it reaches a line it stutters.
