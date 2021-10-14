@@ -6,4 +6,4 @@ https://colab.research.google.com/gist/sikora-toma/278a3917b84f5a874fe12c036c45d
 
 Notebook with added circular training on multiple maps:
 
-https://gist.github.com/sikora-toma/5a9dfd6e6493b07a287bb1bebaec90c6
+https://gist.github.com/sikora-toma/f2f6bbdd45a790598c19d2f5295f2405
