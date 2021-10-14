@@ -1,0 +1,18 @@
+### 14/10/2021
+### Davide Viviani
+
+1) Update a new reward function:
+     -the new function has a weigth of 2 (instead of the default=1) on the speed, to see how the model behaves now.
+      Further test on the speed weigth may be implemented and see how it behaves increasing it more and more.
+   The reward function update is in "RF_wrapper(Simulator)".
+   
+ 2) A new reward function can be implemeted to evaluate smoothness of the control action or other parameters
+ 
+ 3) We have to understand better how the noise on the actions affects the learning:
+      - Is it too big in magnitude? How the learning changes affecting only one of the the actions?
+      
+ 4) Location of the Duckie is based on odometry directly computed from the action, maybe the noise on the action is propagating in here?
+ 
+ At the moment:
+ - Toma is trying the training with noise on both actions
+ - Davide is trying training with the reward function in 1)
