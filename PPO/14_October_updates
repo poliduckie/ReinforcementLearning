@@ -16,3 +16,7 @@
  At the moment:
  - Toma is trying the training with noise on both actions
  - Davide is trying training with the reward function in 1)
+
+UNDESTANDING PPO PLOTS:
+
+https://medium.com/aureliantactics/understanding-ppo-plots-in-tensorboard-cbc3199b9ba2
