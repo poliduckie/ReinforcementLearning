@@ -19,6 +19,9 @@ Testing:
 3.10.2021.
 - train 10k with action noise(std 0.05*MAX_ACTION)
 - trained on the zig zag map
+14.10.2021.
+- train 5k with action noise(std 0.01*MAX_ACTION)
+- trained on the zig zag map
 
 Results:
 It seems to learn to drive better the longer it trains(it improves).
@@ -27,4 +30,4 @@ Also, because of the nature of the small_loop map, the model learns to turn only
 
 The noise in the action seems too big because the agent doesn't learn,
 it goes straight and when it reaches a line it stutters.
-Reducing the noise doesn't reduce the stutter(from 0.1 to 0.05).
+Reducing the noise doesn't reduce the stutter(from 0.1 to 0.01).

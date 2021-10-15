@@ -7,3 +7,4 @@ Further testing:
 - train same agent on different maps(e.g. change map every 5k timesteps)
 - try imitation learning
 - PID control(?)
+- try vectorized environments
