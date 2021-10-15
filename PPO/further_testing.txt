@@ -5,6 +5,7 @@ Further testing:
 - make speed part of the reward(reward higher speed)
 - add noise to the action(to improve exploration)
 - train same agent on different maps(e.g. change map every 5k timesteps)
+	- test with MultiMap
 - try imitation learning
 - PID control(?)
 - try vectorized environments
