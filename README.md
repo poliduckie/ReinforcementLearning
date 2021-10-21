@@ -1,3 +1,6 @@
+Folder to upload models:
+https://aeapolimi-my.sharepoint.com/:f:/g/personal/giulio_aeapolimi_it/ElyfyFlEiXJIhPJzI8guTuYBI2EuS3PK7r-b2zxMpilQiA?e=Tgg5s9
+
 https://colab.research.google.com/gist/giuliovv/f3f445991d8c01aa7d701cfc94815b1c/ppo_duckie_baseline3_torch.ipynb
 
 Notebook with added noise action wrapper:
