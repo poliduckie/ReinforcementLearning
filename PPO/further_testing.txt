@@ -9,3 +9,5 @@ Further testing:
 - try imitation learning
 - PID control(?)
 - try vectorized environments
+- try multiobjective optimization (?)
+	- take into account action from previous step
