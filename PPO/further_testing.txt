@@ -11,3 +11,8 @@ Further testing:
 - try vectorized environments
 - try multiobjective optimization (?)
 	- take into account action from previous step
+
+To keep:
+- action wrapper (not to go backwards and stutter)
+- train for a longer period of time
+	(with saving the model to the google drive and uploading it when the colab shuts down on us)
