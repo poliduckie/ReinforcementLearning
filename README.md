@@ -13,5 +13,5 @@ https://gist.github.com/sikora-toma/f2f6bbdd45a790598c19d2f5295f2405
       https://gist.github.com/sikora-toma/1b7e8dffa785aadd7961c143c494472a
 
 Cleaned notebook - should be working:
-
+https://colab.research.google.com/gist/sikora-toma/91526f0b8d0e6135b1843645404c537d/ppo_duckie_baseline3_drive_clean.ipynb
 
