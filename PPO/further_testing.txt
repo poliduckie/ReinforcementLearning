@@ -11,6 +11,7 @@ Further testing:
 - try vectorized environments
 - try multiobjective optimization (?)
 	- take into account action from previous step
+- maybe try shorter episodes
 
 To keep:
 - action wrapper (not to go backwards and stutter)
