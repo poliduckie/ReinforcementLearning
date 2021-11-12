@@ -150,7 +150,7 @@ def white_balance(img):
 
 if __name__ == '__main__':
     """
-    Run this file to test the wrapper
+    Start the training
     """
     env = gym.make(map_name)
     env = ObsWrapper(env)
