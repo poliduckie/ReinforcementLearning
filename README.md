@@ -3,9 +3,9 @@ Folder with our experiments on autonomous driving with Reinforcement Learning an
 
 ## Results
 
-[First video](assets/video1.gif)
+![First video](assets/video1.gif)
 
-[Second video](assets/video2.gif)
+![Second video](assets/video2.gif)
 
 
 
