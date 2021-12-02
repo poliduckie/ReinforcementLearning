@@ -1,6 +1,11 @@
 # PoliDuckie Reinforcement Learning
 Folder with our experiments on autonomous driving with Reinforcement Learning and the [Duckietown](https://www.duckietown.org/) platform.
 
+## Preprocessing
+We tried line extraction and bird eye view. During training we saw improvements using line extraction while birdeye didn't improve our model.
+
+![Preprocess](assets/filter_birdeye.png)
+
 ## Results
 
 ![First video](assets/video1.gif)
