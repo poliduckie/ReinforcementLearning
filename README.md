@@ -1,4 +1,4 @@
-# PoliDuckie Reinforcement Learning
+# 🚗 PoliDuckie Reinforcement Learning 🚙
 Folder with our experiments on autonomous driving with Reinforcement Learning and the [Duckietown](https://www.duckietown.org/) platform.
 
 ## Preprocessing
