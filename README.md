@@ -16,7 +16,7 @@ We tried line extraction and bird eye view. During training we saw improvements 
 
 ## Team
 - [Ksenia Chigibaeva](https://www.github.com/chigibaeva)
-- [Giorgio Maini](https://www.github.com/Giorgio-Maini)
+- [Giorgio Miani](https://www.github.com/Giorgio-Miani)
 - [Toma Sikora](https://www.github.com/sikora-toma)
 - [Giulio Vaccari](https://www.github.com/giuliovv)
 - [Davide Viviani](https://www.github.com/DavViviani)
