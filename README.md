@@ -1,4 +1,6 @@
 # 🚗 PoliDuckie Reinforcement Learning 🚙
+AIDO 2021 finalists!
+
 Folder with our experiments on autonomous driving with Reinforcement Learning and the [Duckietown](https://www.duckietown.org/) platform.
 
 ## Preprocessing
